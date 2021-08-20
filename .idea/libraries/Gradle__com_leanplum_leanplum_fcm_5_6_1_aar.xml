@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Gradle: com.leanplum:leanplum-fcm:5.6.1@aar" type="AndroidModuleLibraryType">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/2097c8b288bd8950e7d38dd5884501b1/jetified-leanplum-fcm-5.6.1/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/2097c8b288bd8950e7d38dd5884501b1/jetified-leanplum-fcm-5.6.1/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
