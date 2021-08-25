@@ -12,7 +12,7 @@ import com.leanplum.LeanplumPushReceiver
 import com.leanplum.internal.Log
 
 /** LeanplumPlugin */
-class LeanplumPlugin : FlutterPlugin, MethodCallHandler {
+class FlutterLeanplumPlugin : FlutterPlugin, MethodCallHandler {
   private lateinit var channel: MethodChannel
 
   override fun onAttachedToEngine(@NonNull flutterPluginBinding: FlutterPlugin.FlutterPluginBinding) {
