@@ -43,6 +43,6 @@ dependencies {
     implementation "org.jetbrains.kotlin:kotlin-stdlib-jdk7:$kotlin_version"
     implementation 'androidx.annotation:annotation:1.2.0'
 
-    implementation 'com.leanplum:leanplum-fcm:7.0.1'
+    implementation 'com.leanplum:leanplum-fcm:7.1.2'
     implementation 'com.google.firebase:firebase-messaging:22.0.0'
 }
